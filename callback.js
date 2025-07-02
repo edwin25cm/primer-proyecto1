@@ -13,3 +13,4 @@ var otravariable;
      otravariable = parametro + 10;
      console.log(otravariable);
 })
+
